@@ -1,5 +1,3 @@
-# TerraformLearnin
-
 ## Example of Creating CosmosDB on Azure using Terraform
 
 You need to execute command 
